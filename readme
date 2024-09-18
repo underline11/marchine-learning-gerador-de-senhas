@@ -1,0 +1,18 @@
+# Gerador de Senhas
+
+## Descrição
+Este projeto é um **Gerador de Senhas Fortes**, desenvolvido em Python, que cria senhas seguras com uma combinação de letras, números e símbolos. O gerador utiliza estruturas de dados (listas), loops e funções para garantir que as senhas sejam complexas e difíceis de quebrar.
+
+## Funcionalidades
+- Geração de senhas com letras maiúsculas e minúsculas.
+- Inclusão de números e símbolos especiais.
+- Possibilidade de definir o comprimento da senha.
+- Senhas geradas são adequadas para o uso em contas online, aplicações e outros contextos que exigem segurança.
+
+## Tecnologias Utilizadas
+- Python 3.x
+
+## Como Usar
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/gerador-de-senhas.git
