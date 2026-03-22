@@ -12,7 +12,3 @@ Este projeto é um **Gerador de Senhas Fortes**, desenvolvido em Python, que cri
 ## Tecnologias Utilizadas
 - Python 3.x
 
-## Como Usar
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/gerador-de-senhas.git
